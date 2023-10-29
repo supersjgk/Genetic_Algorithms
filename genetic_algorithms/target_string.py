@@ -93,4 +93,17 @@ if __name__ == '__main__':
 	main()
 
 		
-			
+
+'''
+Output looks like this
+>python target_string.py
+Generation: 1, String: 001101110000, Fitness: 3
+Generation: 2, String: 001101110000, Fitness: 3
+Generation: 3, String: 101100111110, Fitness: 2
+Generation: 4, String: 101100111110, Fitness: 2
+Generation: 5, String: 101100111110, Fitness: 2
+Generation: 6, String: 101100110000, Fitness: 1
+Generation: 7, String: 101100110000, Fitness: 1
+Generation: 8, String: 101100110000, Fitness: 1
+Generation: 9, String: 101100111000, Fitness: 0
+'''
